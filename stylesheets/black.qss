@@ -1,0 +1,23 @@
+/*
+Black QSS
+*/
+QWidget{
+    background-color: #0A081A;
+}
+QPushButton{
+    background-color: #696969;
+    color: white;
+    font-size: 18px;
+
+}
+QPushButton:hover{
+    background-color: #808080;
+    color: white;
+    font-size: 18px;
+}
+QLineEdit{
+    background-color: #E6E6FA;
+    margin-bottom: 5px;
+    text-align: right;
+}
+

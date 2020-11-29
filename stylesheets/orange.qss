@@ -1,0 +1,22 @@
+/*
+Orange QSS
+*/
+QWidget{
+    background-color: #F5DEB3;
+}
+QPushButton{
+    background-color: #FF6347;
+    color: black;
+    font-size: 18px;
+
+}
+QPushButton:hover{
+    background-color: #B22222;
+    color: #120E0E;
+    font-size: 18px;
+}
+QLineEdit{
+    background-color: #E6E6FA;
+    margin-bottom: 5px;
+    text-align: right;
+}
